@@ -36,5 +36,10 @@ This Android application allows users to track their GPS location and store it o
   - Google Maps SDK - For displaying maps in Android.
 - Demo Video
   - I'm using the "GPS Emulator" app to simulate different GPS coordinates without physically changing my device's location.
-https://github.com/ZinebTAGHIA/TP_Map/assets/102872040/725a904e-051d-4954-a4e3-219c056ed779
+
+
+https://github.com/ZinebTAGHIA/TP_Map/assets/102872040/bd92e160-d765-4995-bfde-d0179c376af0
+
+
+
 
